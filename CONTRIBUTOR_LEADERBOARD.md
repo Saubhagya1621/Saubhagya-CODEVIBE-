@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `Saubhagya1621/Saubhagya-CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-08-27
+Last updated: 2026-08-28
 
 ## Scoring
 
@@ -19,7 +19,7 @@ Last updated: 2026-08-27
 | 3 | [@thedaripanator](https://github.com/thedaripanator) | 32 | 16 | 0 | 0 |
 | 4 | [@codedbydollys10](https://github.com/codedbydollys10) | 26 | 13 | 0 | 0 |
 | 5 | [@shyam-medh](https://github.com/shyam-medh) | 26 | 13 | 0 | 0 |
-| 6 | [@Aayuiiitmg](https://github.com/Aayuiiitmg) | 24 | 12 | 0 | 0 |
+| 6 | [@aayuxsh326](https://github.com/aayuxsh326) | 24 | 12 | 0 | 0 |
 | 7 | [@namrarafique93-del](https://github.com/namrarafique93-del) | 22 | 11 | 0 | 0 |
 | 8 | [@Pcmhacker-piro](https://github.com/Pcmhacker-piro) | 22 | 11 | 0 | 0 |
 | 9 | [@riteshpatil9686-lgtm](https://github.com/riteshpatil9686-lgtm) | 22 | 11 | 0 | 0 |
